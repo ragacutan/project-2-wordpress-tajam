@@ -1,2 +1,2 @@
-#ACCESS   
-adminn || admin
+#ACCESS TO WORDPRESS PANEL
+admin || admin
